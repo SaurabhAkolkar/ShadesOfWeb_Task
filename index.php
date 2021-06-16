@@ -31,7 +31,7 @@ class RestApi {
 // // echo $token;
 // // echo $url;
 // $url = 'https://devsow.wpengine.com/wp-json/media/posts/';
-// $token = 'Basic bmVoYTowI21JdkJCdzRBdWJoKTU5QXhEQ0hIQTU=';
+// $token = 'Basic';
 // $data = $obj->getData($url, $token);
 // echo $data;
 ?>
